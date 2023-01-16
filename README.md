@@ -11,6 +11,7 @@ Android Audio Player App
 - clean architecture
 - MVVM
 - dagger Hilt
+- Content Provider
 - Media Service
 - ExoPlayer
 - MediaPlayerNotificationManager
